@@ -95,7 +95,7 @@ online-retail-data-cleaning/
 
 ├── screenshots/
 
-│ └── ufc_analysis.xlsx
+├── ufc_analysis.xlsx
 
 ├── README.md
 
