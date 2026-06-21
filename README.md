@@ -89,12 +89,17 @@ Results:
 
 ## Project Structure
 
-ufc-historical-analysis/
+online-retail-data-cleaning/
 
 ├── data/
+
 ├── screenshots/
-├── ufc_analysis.xlsx
-└── README.md
+
+│ └── ufc_analysis.xlsx
+
+├── README.md
+
+---
 
 ## Skills Demonstrated
 
