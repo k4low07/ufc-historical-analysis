@@ -87,6 +87,15 @@ Results:
 - The regression model was built only for red-corner fighters.
 - Historical records may contain incomplete information.
 
+## Project Structure
+
+ufc-historical-analysis/
+
+├── data/
+├── screenshots/
+├── ufc_analysis.xlsx
+└── README.md
+
 ## Skills Demonstrated
 
 - Data Cleaning
